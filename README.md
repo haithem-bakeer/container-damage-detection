@@ -10,4 +10,4 @@ pip install -r requirements.txt
 🧪 Model testing : python src/test.py
 📤 Export the model to the camera : python src/export.py
 📊 Results : After the project is completed
-👨‍💻 Author : Haitham Abdel-Azim Bakeer
+👨‍💻 Author : Haitham Abdel-Adim Bakeer
